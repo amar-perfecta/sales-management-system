@@ -1,0 +1,8 @@
+Created as an assist for Sales Manager.
+
+Developed as a console application without graphics, this sales management system project in C++ 
+is a very simple project related to general sales management. 
+This project allows users to perform a vast number of functions, 
+which I have briefly described below in this post. 
+Understanding the source code of this project will teach you the effective use of file handling in C++ projects, 
+and writing big and complex projects using multiple classes, functions and features.
